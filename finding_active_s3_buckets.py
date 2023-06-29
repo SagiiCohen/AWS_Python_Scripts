@@ -1,12 +1,12 @@
 #The code below will perform the following: 
 
-#It will connect to a AWS environment. 
+#It will connect to an AWS environment. 
 
-#It will start reading the S3 buckets files in small portions. 
+#It will start reading the S3 bucket files in small portions. 
 
 #If it read a file that was modified within the given timeframes, it will jump to the next bucket. 
 
-#It will only regiester inactive S3 buckets. 
+#It will only register inactive S3 buckets. 
 
   
 
